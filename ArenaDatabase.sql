@@ -46,7 +46,7 @@ eoID ref event_t,
 map member function contractLength return integer
 );
 
-create type  _t as object(
+create type  foodsales_t as object(
 fID char(5),
 foodname char(15),
 quantity integer,
